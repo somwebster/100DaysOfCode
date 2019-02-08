@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-# author - som_webster
+# Author - som_webster
 
 ### Day 0: February 8, 2019 
 
