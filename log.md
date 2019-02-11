@@ -20,3 +20,19 @@
 **Thoughts:** Airtable API can be used with both Curl and Node.js, currently trying to understand how node works with it. Deployed a node app in Heroku. 
 
 **Link to work:** [Portfolio Page](github.com/somwebster)
+
+### Day 2: February 10, 2019 
+
+
+**Today's Progress**: Worked on UI for showing airtable data in web.
+**Thoughts:** Missed my log due to internet issues.
+
+**Link to work:** [Portfolio Page](github.com/somwebster)
+
+### Day 3: February 11, 2019 
+
+
+**Today's Progress**: Published the UI on Github. Tried a template from colorlib.
+**Thoughts:** Not using a design from scratch as motive is to learn about the API and node.
+
+**Link to work:** [Portfolio Page](github.com/somwebster)
