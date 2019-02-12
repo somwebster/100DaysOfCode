@@ -37,7 +37,7 @@
 
 **Link to work:** [Portfolio Page](github.com/somwebster)
 
-### Day 3: February 12, 2019 
+### Day 4: February 12, 2019 
 
 
 **Today's Progress**: Deployed first Node based app in Heroku. Learning how to use NPM commands.
