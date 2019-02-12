@@ -36,3 +36,11 @@
 **Thoughts:** Not using a design from scratch as motive is to learn about the API and node.
 
 **Link to work:** [Portfolio Page](github.com/somwebster)
+
+### Day 3: February 12, 2019 
+
+
+**Today's Progress**: Deployed first Node based app in Heroku. Learning how to use NPM commands.
+**Thoughts:** Getting-started-with-node tutorial is really worth trying. Best way to learn while doing.
+
+**Link to work:** [Portfolio Page](github.com/somwebster)
